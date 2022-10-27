@@ -1,0 +1,4 @@
+contract is deployed at:
+0x4616c95B3Ee4861CC0D876ac70ee9476F3E16c95 at Goerli network
+
+0x611D927F6171E51Fa5F8b13FE0923D288E9b2088 at Goerli network
